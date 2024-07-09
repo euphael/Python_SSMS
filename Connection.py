@@ -40,7 +40,7 @@ conexao = (
     "mssql+pyodbc:///?odbc_connect=" + 
     "DRIVER={ODBC Driver 17 for SQL Server};" +
     "SERVER=RAPHAEL;" +
-    "DATABASE=master;" +
+    "DATABASE=MarketPlace;" +
     "Trusted_Connection=yes"
 )
 
